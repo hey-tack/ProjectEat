@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5cb120723b1931648bb84b71ccef7e9a
+timeCreated: 1496598555
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bgImage: {fileID: 2800000, guid: b93925ceccd1d9d47b2f6432e79c34ec, type: 3}
+  - fgImage: {fileID: 2800000, guid: 26f9623d3f36b4e46889dfdc240a6f92, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
